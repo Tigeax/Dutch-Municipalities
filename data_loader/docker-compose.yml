@@ -1,0 +1,4 @@
+services:
+  data_loader:
+    build: .
+    network_mode: "host"
