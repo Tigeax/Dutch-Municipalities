@@ -19,7 +19,7 @@ Make sure you have the following installed on your machine:
 
 ## Installation
 
-### 1. Close the Repository
+### 1. Clone the Repository
 
 Clone the repository to your local machine and navigate into the project directory:.
 
